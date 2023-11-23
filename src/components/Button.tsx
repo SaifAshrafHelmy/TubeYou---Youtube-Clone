@@ -7,6 +7,11 @@ const buttonStyles = cva(['transition-colors'], {
     variant: {
       default: ['hover:bg-secondary-hover', 'bg-secondary'],
       ghost: ['hover:bg-gray-100'],
+      dark: [
+        'bg-secondary-dark',
+        'hover:bg-secondary-dark-hover',
+        'text-secondary',
+      ],
     },
     size: {
       default: ['rounded', 'p-2'],
