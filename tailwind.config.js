@@ -15,6 +15,7 @@ export default {
           border: colors.neutral[400],
           text: colors.neutral[500],
           dark: colors.neutral[800],
+          dark2: '#606060',
           ["dark-hover"]: colors.neutral[900]
         }
 

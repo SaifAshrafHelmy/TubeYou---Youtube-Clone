@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+* {
+  /* fallback for other browsers */
+  scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+  /* adding a fake margin with borders */
+  background-clip: content-box;
+  border: 4.5px solid transparent;
+  @apply bg-secondary-dark2 rounded-full
+}
+
+
+.scrollbar-hidden::-webkit-scrollbar-thumb {
+  @apply bg-transparent
+}
+
+.scrollbar-hidden:hover::-webkit-scrollbar-thumb {
+  @apply bg-secondary-border
+}
