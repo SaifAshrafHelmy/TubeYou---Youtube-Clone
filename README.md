@@ -13,8 +13,7 @@ This project is a React-based YouTube interface clone that replicates the core l
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#screenshots)
 
 ## Installation
 
@@ -36,16 +35,8 @@ This project focuses on replicating the visual aspects of the YouTube interface 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 
-## Contributing
+## Screenshots
+![sm](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/edf207db-f27d-461b-b953-dcaeb2495113)
+![md](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/b3a11c48-6739-4eb6-b519-327efcb245a5)
+![lg](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/f7c3d158-43d2-47c1-954d-eff9da6a2496)
 
-If you'd like to contribute to TubeYou, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m 'Description of changes'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
