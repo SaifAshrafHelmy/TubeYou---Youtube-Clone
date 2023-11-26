@@ -1,4 +1,4 @@
-# TubeYou - a YouTube Interface Clone
+![p3](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/86716c75-5a7d-4949-96dd-b9be1deedf7f)# TubeYou - a YouTube Interface Clone
 
 ## Live Deployment
 
@@ -10,10 +10,22 @@ This project is a React-based YouTube interface clone that replicates the core l
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Screenshots](#screenshots)
+
+
+
+## Screenshots
+![p1](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/6a13c969-4772-4174-b0bb-0866f7d23b4f)
+![p2](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/bd97cd0b-0493-46f2-8a66-17e1a677d214)
+![p3](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/535da714-993a-4138-ba2c-1d4e5eb14fb5)
+
+
+
+
+
 
 ## Installation
 
@@ -34,9 +46,4 @@ This project focuses on replicating the visual aspects of the YouTube interface 
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-
-## Screenshots
-![sm](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/edf207db-f27d-461b-b953-dcaeb2495113)
-![md](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/b3a11c48-6739-4eb6-b519-327efcb245a5)
-![lg](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/f7c3d158-43d2-47c1-954d-eff9da6a2496)
 
