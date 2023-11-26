@@ -1,12 +1,14 @@
 # TubeYou - a YouTube Interface Clone
 
-## Live Deployment
-
-The website is deployed live on [https://tubeyou-a-youtube-interface-clone.vercel.app/](https://tubeyou-a-youtube-interface-clone.vercel.app/).
 
 ## Project Overview
 
 This project is a React-based YouTube interface clone that replicates the core layout and design of the popular video-sharing platform. It is a frontend-only application, focusing on providing users with a familiar YouTube experience for browsing and viewing video content. The interface is designed to be responsive, ensuring a seamless experience on various devices.
+
+## Live Deployment
+
+The website is deployed live on [https://tubeyou-a-youtube-interface-clone.vercel.app/](https://tubeyou-a-youtube-interface-clone.vercel.app/).
+
 
 ## Screenshots
 ![p1](https://github.com/SaifAshrafHelmy/TubeYou---Youtube-Clone/assets/80127623/6a13c969-4772-4174-b0bb-0866f7d23b4f)
