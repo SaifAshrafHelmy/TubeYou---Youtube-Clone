@@ -1,13 +1,4 @@
-import {
-  ArrowLeft,
-  Bell,
-  Menu,
-  Mic,
-  Search,
-  Upload,
-  User,
-  Video,
-} from 'lucide-react';
+import { ArrowLeft, Bell, Menu, Mic, Search, User, Video } from 'lucide-react';
 import logo from '../assets/yt-logo.png';
 import Button from '../components/Button';
 import { useState } from 'react';
